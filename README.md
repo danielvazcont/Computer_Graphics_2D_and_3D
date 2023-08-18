@@ -25,12 +25,10 @@
 <div style="text-align: justify;">
 This project serves as an application of the various 2D algorithms studied. It entails a basic spaceship that can be maneuvered using the keys "A", "W", "S" and "D" within a dynamic environment. The environment is imbued with animations, making use of the acquired methods to create a lively and interactive setting.
 </div>
-
-<p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/5273/5273716.png](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)" alt="project"  width="200">
-</p>
+![](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)
+https://postimg.cc/CB86TkkZ
 [![espacio.jpg](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)](https://postimg.cc/CB86TkkZ)
-
+<a href='https://postimg.cc/CB86TkkZ' target='_blank'><img src='https://i.postimg.cc/CB86TkkZ/espacio.jpg' border='0' alt='espacio'/></a>
 # Dany
 
 ![](https://computerworldmexico.com.mx/wp-content/uploads/2021/03/Java.jpg)
