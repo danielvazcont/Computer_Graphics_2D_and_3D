@@ -25,7 +25,11 @@
 <div style="text-align: justify;">
 This project serves as an application of the various 2D algorithms studied. It entails a basic spaceship that can be maneuvered using the keys "A", "W", "S" and "D" within a dynamic environment. The environment is imbued with animations, making use of the acquired methods to create a lively and interactive setting.
 </div>
-![](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5273/5273716.png" alt="project"  width="200">
+</p>
+
 
 # Dany
 
