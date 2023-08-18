@@ -30,7 +30,9 @@ This project serves as an application of the various 2D algorithms studied. It e
 
 # Dany
 
-![](https://computerworldmexico.com.mx/wp-content/uploads/2021/03/Java.jpg)
+<p align="center">
+  <img src="https://computerworldmexico.com.mx/wp-content/uploads/2021/03/Java.jpg" alt="Image Description"  width="200">
+</p>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5273/5273716.png" alt="Image Description"  width="200">
