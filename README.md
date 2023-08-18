@@ -27,9 +27,9 @@ This project serves as an application of the various 2D algorithms studied. It e
 </div>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5273/5273716.png" alt="project"  width="200">
+  <img src="[https://cdn-icons-png.flaticon.com/512/5273/5273716.png](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)" alt="project"  width="200">
 </p>
-
+[![espacio.jpg](https://i.postimg.cc/sXHFWJ2J/espacio.jpg)](https://postimg.cc/CB86TkkZ)
 
 # Dany
 
